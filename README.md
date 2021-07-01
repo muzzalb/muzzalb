@@ -1,15 +1,18 @@
 - 👋 Hi, I’m @muzzalb you can call me Liam. ;)
 - 👀 I’m interested in learning and developing my skills, I love create applications that will streamline my workflows.
+- <br>
 - 🌱 I’m currently learning:
 
 NODE.JS
+<br>
 GO (GoLang)
+<br>
 Moralis
 
 - 💞️ I’m looking to collaborate on anything, hit me up with your ideas!
 
-- 📫 How to reach me:
-
+- 📫 How to reach me: <br>
+<br>
 Discord - Muzza#5770
 
 <!---
